@@ -1,4 +1,4 @@
-# stage_dataleon
+# Stage_dataleon
 
 To launch the project: npm run dev
 Technologies Used: React, TypeScript, Vite
