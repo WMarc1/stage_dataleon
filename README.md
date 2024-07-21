@@ -1,4 +1,3 @@
 # stage_dataleon
 
-To launch the projet:
-  npm run dev
+To launch the project: npm run dev
